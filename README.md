@@ -25,13 +25,4 @@ npm install util
 You only need to install the `util` package if you plan on debugging the application.
 
 ## License
-CC-BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International)
-
-Simple explanation (NOT a replacement for the [LICENSE](LICENSE)):
-
-  - Credit me if you are publishing your app publicly or within an organization.
-    - (e.g. Uses Rename My Playlist by siliconninja, Licensed Under CC-BY-NC-SA 4.0)
-  
-  - For **personal use**, credit is not required.
-  
-  - Commercial use is prohibited.
+[MIT License](LICENSE)
